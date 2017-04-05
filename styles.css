@@ -1,0 +1,82 @@
+body,html {
+	margin:0;
+	background-color:#fffd9b;
+}
+
+#main {
+	position:absolute;
+	top:100px;
+	height:400px;
+	left:50px;
+	right:50px;
+	border:1px double black;
+	background-color:#218400;
+}
+
+#H1 {
+	position:absolute;
+	top:550px;
+	height:150px;
+	left:50px;
+	right:720px;
+	border:1px double black;
+	background:yellow;
+}
+
+#H2 {
+	position:absolute;
+	top:550px;
+	height:150px;
+	left:720px;
+	right:50px;
+	border:1px double black;
+	background-color:yellow;
+}
+
+#H3 {
+	position:absolute;
+	top:50px;
+	height:15px;
+	right:50px;
+	left:1325px;
+	border:1px solid black;
+	background-color:brown;
+}
+
+#navbar {
+	position:absolute;
+	top:50px;
+	height:15px;
+	right:1100px;
+	left:180px;
+	border:1px double black;
+	background-color:red;
+	color:white;
+}
+
+#H5 {
+	position:absolute;
+	top:45px;
+	height:5px;
+	left:180px;
+	right:1100px;
+	border:1px double black;
+	background-color:white;
+}
+
+#H6 {
+	position:absolute;
+	top:45px;
+	height:5px;
+	left:1325px;
+	right:50px;
+	border:1px double black;
+	background-color:white;
+}
+
+#H7 {
+	position:absolute;
+	margin-top:50px;
+	
+	
+	
